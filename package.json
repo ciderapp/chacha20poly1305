@@ -1,6 +1,6 @@
 {
   "name": "chacha-js",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Fork of Calvin Metcalf's ChaCha20 Poly1305 auth cipher as pure Javascript only",
   "main": "index.js",
   "scripts": {
@@ -31,7 +31,4 @@
     "inherits": "^2.0.1",
     "readable-stream": "^1.0.33"
   },
-  "optionalDependencies": {
-    "chacha-native": "^2.0.0"
-  }
 }
