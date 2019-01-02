@@ -30,5 +30,5 @@
   "dependencies": {
     "inherits": "^2.0.1",
     "readable-stream": "^1.0.33"
-  },
+  }
 }
